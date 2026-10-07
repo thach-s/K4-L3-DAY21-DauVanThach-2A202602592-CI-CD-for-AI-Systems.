@@ -1,4 +1,4 @@
-# Dataset 44.722 mau - trigger tu dong boi commit du lieu.
+# Dataset 44.722 mau - trigger push sau khi enable Actions.
 outs:
 - md5: 77c658508d27fcf6b04a6f30d8dc0eb1
   size: 1126076
